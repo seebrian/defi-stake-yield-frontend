@@ -7,7 +7,7 @@ A simple prototype of defi using React, Solidity & Brownie. Users can stake WETH
 
 Application: <a target="_blank" href="https://rad-brioche-b016c3.netlify.app//">https://rad-brioche-b016c3.netlify.app/</a>
 
-# Summary
+## Summary
 This is a repo to build your own full stack defi staking application for yield farming, borrowing and lending, or any other project you can think of. It allows you to:
 
 `stakeTokens`: Add any approved token to the farming contract for yeild farming, collateral, or whatever you want to do. <br>
@@ -17,7 +17,7 @@ This is a repo to build your own full stack defi staking application for yield f
 
 
 
-### Installing
+## Installing
 
 A step by step series of examples that tell you how to get a development env running
 
