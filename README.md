@@ -12,7 +12,7 @@ This is a repo to build your own full stack defi staking application for yield f
 
 `stakeTokens`: Add any approved token to the farming contract for yeild farming, collateral, or whatever you want to do. <br>
 `unStakeTokens`: Remove your tokens from the contract. <br>
-`getUserTokenValue`: Get the token value that users have supplied based on calculations from the Chainlink Price Feeds.
+`getUserTokenValue`: Get the token value that users have supplied based on calculations from the Chainlink Price Feeds. <br>
 `claimRewardTokens`: Issue a reward to the users staking on your platform!
 
 
