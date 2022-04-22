@@ -1,6 +1,8 @@
 # Defi Stake Yield Application
 A simple prototype of defi using React, Solidity & Brownie. Users can stake WETH, DAI & HAPPY Token and get HAPPY token as rewards. Currently, it only support Kovan Test Network
 
+Smart Contract part: [defi-stake-yield-brownie](https://github.com/seebrian/defi-stake-yield-brownie/tree/main)
+
 <img width="1673" alt="image" src="https://user-images.githubusercontent.com/31948672/164690794-01d3f8aa-cd15-4f5a-bea3-5383c7d4c345.png">
 
 ## Demo
